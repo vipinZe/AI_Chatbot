@@ -108,7 +108,7 @@ The objective of this project is to understand how Large Language Models (LLMs),
 **Vipin Thakur**
 
 - GitHub: [vipinZe](https://github.com/vipinZe)
-- LinkedIn: https://www.linkedin.com/in/vipin-thakur-24169535a/
+- LinkedIn: [LinkeDin](https://www.linkedin.com/in/vipin-thakur-24169535a/)
 
 ## ⭐ Support
 
